@@ -1,1 +1,1 @@
-## Welcome to jogallam.eu
+## jogallam.eu

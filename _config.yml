@@ -2,5 +2,5 @@ theme: jekyll-theme-minimal
 title: A Jogállamról
 description: Egy óra a jogállamról. Neked mit jelent?
 logo: liberta-dexpression-christophe-kiciak.jpg
-show_downloads: true
+show_downloads: false
 google_analytics: G-D4FBCGWV4R
